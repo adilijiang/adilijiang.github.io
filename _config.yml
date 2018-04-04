@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site settings
 title: Adilijiang
 # job_title: PhD Student & Assistant Engineer
@@ -22,6 +21,3 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 orcid: 0000-0003-3032-3575
-=======
-theme: jekyll-theme-cayman
->>>>>>> ee9820db32d7b5fc9a28f4df696713c378910bed
