@@ -1,1 +1,27 @@
+<<<<<<< HEAD
+# Site settings
+title: Adilijiang
+# job_title: PhD Student & Assistant Engineer
+email: jiangquan@nimte.ac.cn
+# address:Institute of Advanced Manufacturing Technology, CNITECH
+description: > # this means to ignore newlines until "baseurl:"
+  Topics on my site include my reserch interests and development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+github_username:  adilijiang
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+orcid: 0000-0003-3032-3575
+=======
 theme: jekyll-theme-cayman
+>>>>>>> ee9820db32d7b5fc9a28f4df696713c378910bed
