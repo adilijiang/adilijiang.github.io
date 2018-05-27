@@ -12,8 +12,8 @@ My research interests focuses on Structure Optimistic Designing,Multiphase Model
 <p>Jiang Quan(2015).Non-Power-Drive Dust Supperession Design of Transfer Point of Belt Conveyors Chute.Taiyuan University of Science & Technology.</p>
 
 <li class="listing-seperator">Refereed Journal Papers:</li>
-<p>1. JIANG Quan, CHEN Xiliang, XIAO Jiangjian, et al. Discrete Element Numerical Simulation and Analysis of Huangping Reservoir Areas Landslide and Its Failure Mode[J].The Chinese Journal of Geological Hazard and Control.2018(accepted)</p>
-<p>2. JIANG Quan, LI Xiaobo, MENG Wenjun. Application of Gas-Solid Two-Phase Flow in Dust Removal Field of Transfer Point System[J]. Chinese Journal of Environmental Engineering,2015,(2):830-834.</p>
-<p>3. JIANG Quan, LI Xiaobo, MENG Wenjun. Discrete Element Analysis on Material in Chutes of Tansfer Station Based on EDEM[J]. Mining & Processing Equipment,2014(4):51-55.</p>
-<p>4. JIANG Quan, ZHEN Xiaoyang, WANG Xiaohui, et al. Reasons and Fault Diagnosis of Conveyor Belt Running Deviation[J]. Mechanical Engineering & Automation,2014,(1):141-143.</p>
-<p>5. JIANG Quan, MENG Wenjun, WANG Xi, et al. Lightweight Design of the Space Bar Structure[J]. Hoisting and Conveying Machinery,2014(2):7-10.</p>
+<p>1. Jiang, Quan, et al. "Discrete Element Numerical Simulation and Analysis of Huangping Reservoir Areas Landslide and Its Failure Mode." The Chinese Journal of Geological Hazard and Control(2018).</p>
+<p>2. Jiang, Q., Li, X., Fu, H., & Meng, W. (2015). Application of gas-solid two-phase flow in dust removal field of transfer point system. Chinese Journal of Environmental Engineering.</p>
+<p>3. Jiang, Q., Xiaobo, L. I., & Meng, W. (2014). Discrete element analysis on material in chutes of transfer station based on edem. Mining & Processing Equipment.</p>
+<p>4. Jiang, Q., Zhen, X. Y., Wang, X. H., & Wang, D. (2014). Reasons and fault diagnosis of conveyor belt running deviation. Mechanical Engineering & Automation.</p>
+<p>5. Jiang, Q., Meng, W., Wang, X., & Liu, L. (2014). Lightweight design of space bar structure. Hoisting & Conveying Machinery.</p>
