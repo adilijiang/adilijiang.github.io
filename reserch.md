@@ -9,7 +9,7 @@ My research interests focuses on Structure Optimistic Designing,Multiphase Model
 
 <h2 id="publications">Publications</h2>
 <li class="listing-seperator">Master Thesis:</li>
-<p>Jiang Quan(2015).Non-Power-Drive Dust Supperession Design of Transfer Point of Belt Conveyors Chute.</p>
+<p>Jiang, Q.(2015).Non-Power-Drive Dust Supperession Design of Transfer Point of Belt Conveyors Chute.</p>
 
 <li class="listing-seperator">Refereed Journal Papers:</li>
 <p>1. Jiang, Q., Chen, X., & Qiu, X.(2018). Unified particle method with application to the 2013 Huangping landslides and tsunamis event of China,ICAEER 2018.</p>
